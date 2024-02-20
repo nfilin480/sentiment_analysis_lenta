@@ -13,3 +13,5 @@
 Лучшие результаты:
 модель - xlm-roberta-base
 f1-macro - 0.74
+
+Протестированные модели: bert-base-multilingual-uncased(cased), distilbert-base-multilingual-cased, bert-large-uncased
